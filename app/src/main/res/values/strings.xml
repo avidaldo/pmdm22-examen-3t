@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pmdm22-examen-3t</string>
+    <string name="signin">Registro</string>
+    <string name="log_out">Log out</string>
+    <string name="credentials_already_in_use">El nombre de usuario y/o email ya están en uso</string>
+    <string name="ok">Ok</string>
+    <string name="title">Listado de clientes</string>
+    <string name="username_already_exists">Usuario con mismo username registrado</string>
+    <string name="correctly_signed">Usuario registrado correctamente</string>
+    <string name="delete">Eliminar</string>
+    <string name="signed_clients">Clientes: %d</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="sign_in">Sign In</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="signin_clients_option">Registro clientes</string>
+    <string name="clients_management_option">Gestión clientes</string>
+</resources>
